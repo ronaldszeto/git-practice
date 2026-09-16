@@ -1,6 +1,6 @@
 # Git Practice
 
-## Can AI Really Help Predict Recidivism and Help with Rehabilitation Efforts?
+## Can AI Really Help Predict Recidivism and Help with Rehabilitation?
 (https://www.crimlawpractitioner.org/post/can-ai-really-help-predict-recidivism-and-help-with-rehabilitation-efforts)
 
 ## What I found interesting
